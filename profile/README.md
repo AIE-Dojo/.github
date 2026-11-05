@@ -30,6 +30,9 @@ Cổng thông tin và điều hướng hoạt động nội bộ của AI Engine
 | **Squad 03** | @Khuong, @Huyen | [team tu dien] | [squad-03-sandbox](https://github.com/AIE-Dojo/squad-03-sandbox) |
 | **Squad 04** | @Hao, @LamAnh | [team tu dien] | [squad-04-sandbox](https://github.com/AIE-Dojo/squad-04-sandbox) |
 
+![Uploading Screenshot 2026-11-05 at 17.28.52.png…]()
+
+
 *(Xem chi tiết danh sách thành viên và mục tiêu cụ thể tại thư mục [`/squads`](./squads/))*
 
 ---
