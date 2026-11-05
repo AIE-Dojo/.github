@@ -25,7 +25,7 @@ Cổng thông tin và điều hướng hoạt động nội bộ của AI Engine
 
 | Squad | Leads | Focus Area | Workspace Repo |
 | :--- | :--- | :--- | :--- |
-| **Squad 01** | @Nghia | [team tu dien] | [squad-01-sandbox](https://github.com/AIE-Dojo/squad-01-sandbox) |
+| **Squad 01** | @Nghia | Software System Design & AI/ML Engineering | [squad-01-sandbox](https://github.com/AIE-Dojo/squad-01-sandbox) |
 | **Squad 02** | @Phat | [team tu dien] | [squad-02-sandbox](https://github.com/AIE-Dojo/squad-02-sandbox) |
 | **Squad 03** | @Khuong, @Huyen | [team tu dien] | [squad-03-sandbox](https://github.com/AIE-Dojo/squad-03-sandbox) |
 | **Squad 04** | @Hao, @LamAnh | [team tu dien] | [squad-04-sandbox](https://github.com/AIE-Dojo/squad-04-sandbox) |
@@ -36,7 +36,7 @@ Cổng thông tin và điều hướng hoạt động nội bộ của AI Engine
 
 ## 📅 Lịch trình Seminar & Video Archive
 
-* **Thời gian:** [se thong nhat sau], Thứ Bảy hoặc Chủ Nhật hàng tuần.
+* **Thời gian:** Chủ Nhật 10:00am - 12:00 am hàng tuần.
 * **Thời lượng:** 120 phút (4 topic × 30 phút).
 * **Kho lưu trữ Video Record:** [Google Drive - AIE Dojo](https://drive.google.com/drive/folders/192EcuKDt93jr9P491aD9jAvxMfPQr-_W?usp=sharing)
 
@@ -44,4 +44,4 @@ Cổng thông tin và điều hướng hoạt động nội bộ của AI Engine
 
 | STT | Ngày | Chủ đề chính | Nhóm Present | Tài liệu & Code | Video Record |
 | :---: | :---: | :--- | :--- | :--- | :---: |
-| **01** | 07-8/11/2026 | **AIE Dojo Seminar 1 (Kickoff)** | 4 Squads | [Chi tiết Seminar 01](./seminars/seminar-01.md) | [Xem trên Drive](https://drive.google.com/drive/folders/11v0P8rioqlMOFy06qTdgU_81WvPag2Xs?usp=drive_link) |
+| **01** | 08/11/2026 | **AIE Dojo Seminar 1 (Kickoff)** | 4 Squads | [Chi tiết Seminar 01](./seminars/seminar-01.md) | [Xem trên Drive](https://drive.google.com/drive/folders/11v0P8rioqlMOFy06qTdgU_81WvPag2Xs?usp=drive_link) |
