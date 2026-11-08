@@ -28,7 +28,7 @@ Cổng thông tin và điều hướng hoạt động nội bộ của AI Engine
 | **Squad 01** | @Nghia | Software System Design & AI/ML Engineering | [squad-01-sandbox](https://github.com/AIE-Dojo/squad-01-sandbox) |
 | **Squad 02** | @Phat | [team tu dien] | [squad-02-sandbox](https://github.com/AIE-Dojo/squad-02-sandbox) |
 | **Squad 03** | @Khuong, @Huyen | [team tu dien] | [squad-03-sandbox](https://github.com/AIE-Dojo/squad-03-sandbox) |
-| **Squad 04** | @Hao, @LamAnh | [Build và deploy LLM serving với vLLM] | [squad-04-sandbox](https://github.com/AIE-Dojo/squad-04-sandbox) |
+| **Squad 04** | @Hao, @LamAnh | Build và deploy LLM serving với vLLM | [squad-04-sandbox](https://github.com/AIE-Dojo/squad-04-sandbox) |
 
 ![Uploading Screenshot 2026-11-05 at 17.28.52.png…]()
 
