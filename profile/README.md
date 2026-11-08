@@ -47,4 +47,4 @@ Cổng thông tin và điều hướng hoạt động nội bộ của AI Engine
 
 | STT | Ngày | Chủ đề chính | Nhóm Present | Tài liệu & Code | Video Record |
 | :---: | :---: | :--- | :--- | :--- | :---: |
-| **01** | 08/11/2026 | **AIE Dojo Seminar 1 (Kickoff)** | 4 Squads | [Chi tiết Seminar 01](./seminars/seminar-01.md) | [Xem trên Drive](https://drive.google.com/drive/folders/11v0P8rioqlMOFy06qTdgU_81WvPag2Xs?usp=drive_link) |
+| **01** | 08/11/2026 | **AIE Dojo Seminar 1 (Kickoff)** | 4 Squads | [Chi tiết Seminar 01](./seminars/seminar-01.md) | [Xem trên Drive](https://drive.google.com/file/d/1QT7FEiffqcwEqHT1IuWQzFmPmdmia5D3/view?usp=sharing) |
