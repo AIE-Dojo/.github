@@ -30,8 +30,6 @@ Cổng thông tin và điều hướng hoạt động nội bộ của AI Engine
 | **Squad 03** | @Khuong, @Huyen | [team tu dien] | [squad-03-sandbox](https://github.com/AIE-Dojo/squad-03-sandbox) |
 | **Squad 04** | @Hao, @LamAnh | Build và deploy LLM serving với vLLM | [squad-04-sandbox](https://github.com/AIE-Dojo/squad-04-sandbox) |
 
-![Uploading Screenshot 2026-11-05 at 17.28.52.png…]()
-
 
 *(Xem chi tiết danh sách thành viên và mục tiêu cụ thể tại thư mục [`/squads`](./squads/))*
 
@@ -41,10 +39,10 @@ Cổng thông tin và điều hướng hoạt động nội bộ của AI Engine
 
 * **Thời gian:** Chủ Nhật 10:00am - 12:00 am hàng tuần.
 * **Thời lượng:** 120 phút (4 topic × 30 phút).
-* **Kho lưu trữ Video Record:** [Google Drive - AIE Dojo](https://drive.google.com/drive/folders/192EcuKDt93jr9P491aD9jAvxMfPQr-_W?usp=sharing)
 
 ### Bảng theo dõi các buổi Seminar
 
-| STT | Ngày | Chủ đề chính | Nhóm Present | Video Record |
-| :---: | :---: | :--- | :--- | :---: |
-| **01** | 08/11/2026 | **AIE Dojo Seminar 1 (Kickoff)** | 4 Squads | [Xem trên Drive](https://drive.google.com/file/d/1QT7FEiffqcwEqHT1IuWQzFmPmdmia5D3/view?usp=sharing) |
+| STT | Ngày | Chủ đề chính | Video Record |
+| :---: | :---: | :--- | :---: |
+| **01** | 08/11/2026 | **AIE Dojo Seminar 1 (Kickoff)** | [Drive](https://drive.google.com/file/d/1QT7FEiffqcwEqHT1IuWQzFmPmdmia5D3/view?usp=sharing) |
+| **02** | 15/11/2026 | **AIE Dojo Seminar 2** | [Drive](https://drive.google.com/file/d/1hkY_nTlfnH5pkn81hmyQQOiq1AksId55/view?usp=sharing) |
