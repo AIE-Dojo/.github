@@ -14,7 +14,7 @@ Cổng thông tin và điều hướng hoạt động nội bộ của AI Engine
 * **[Hello Interview: System Design & AI Coding](https://github.com/AIE-Dojo/course-hello-interview)**  
   * *Lead:* @Nghia
   * *Trọng tâm:* Software System Design, Low-Level Design (LLD) & Concurrency, AI/ML System Design, Behavioral Interview
-  * Note: sp đã nạp vip khoá lifetime cho ae, a sẽ tìm cách lấy tài liệu và upload repo
+  * Note: sp đã nạp vip khoá lifetime cho ae, bạn nào muốn học nhắn a a đưa account nhé
 * **[Stanford: Modern Software Development with AI](https://github.com/AIE-Dojo/course-stanford-modern-dev)**  
   * *Lead:* @Huyen  
   * *Trọng tâm:* [Huyền tự điền]
@@ -44,4 +44,4 @@ Cổng thông tin và điều hướng hoạt động nội bộ của AI Engine
 | :---: | :---: | :--- | :---: |
 | **01** | 08/11/2026 | **Seminar 1 (Kickoff)** | [Drive](https://drive.google.com/file/d/1QT7FEiffqcwEqHT1IuWQzFmPmdmia5D3/view?usp=sharing) |
 | **02** | 15/11/2026 | **Seminar 2** | [Drive](https://drive.google.com/file/d/1hkY_nTlfnH5pkn81hmyQQOiq1AksId55/view?usp=sharing) |
-| **03** | 22/11/2026 | **Seminar a3** |  |
+| **03** | 22/11/2026 | **Seminar 3** | [Drive](https://drive.google.com/file/d/1omIPDf40wASC-VZPu9oIX2JBlPxqIemm/view?usp=drive_link) |
